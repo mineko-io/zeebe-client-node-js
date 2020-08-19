@@ -110,8 +110,8 @@
         "signature": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756"
       },
       "./package.json": {
-        "version": "0aca699d8176f918469c8bcac5915bd52e47ff56af9152b6b10118d2dcb0af4e",
-        "signature": "29a9133600f29c45aec8043eb7f38d59d714ac9f5aefb19c57bbc462ff87a689"
+        "version": "a8d5b512a78fecd80e95d8bcec55767eb3803d29b4dfe0a295475eda1ca409b5",
+        "signature": "52b65ebf56b3b5c705108cb240d2d16506c636d037589ad219aa1b6bc8368516"
       },
       "./node_modules/@types/node/globals.d.ts": {
         "version": "a7c0b3ced5accfea2b00005dd15da958feca2a768fdae4b3ddb638974096b2db",
